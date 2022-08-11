@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nicolanda/tenzeigame/static/css/main.02cd752a.css",
+    "main.js": "/nicolanda/tenzeigame/static/js/main.c5e3373b.js",
+    "static/js/787.96ac62b0.chunk.js": "/nicolanda/tenzeigame/static/js/787.96ac62b0.chunk.js",
+    "index.html": "/nicolanda/tenzeigame/index.html",
+    "main.02cd752a.css.map": "/nicolanda/tenzeigame/static/css/main.02cd752a.css.map",
+    "main.c5e3373b.js.map": "/nicolanda/tenzeigame/static/js/main.c5e3373b.js.map",
+    "787.96ac62b0.chunk.js.map": "/nicolanda/tenzeigame/static/js/787.96ac62b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02cd752a.css",
+    "static/js/main.c5e3373b.js"
+  ]
+}
